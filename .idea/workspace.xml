@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8543ce4a-a08b-401f-b257-ef47367a47ac" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1868079270">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="36" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="8" />
+          <entry key="project.open.time.4" value="19" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="2" />
+          <entry key="md" value="8" />
+          <entry key="png" value="13" />
+          <entry key="py" value="134" />
+          <entry key="txt" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="13" />
+          <entry key="Markdown" value="8" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="Python" value="134" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="20" />
+          <entry key="md" value="61" />
+          <entry key="py" value="2776" />
+          <entry key="txt" value="110" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="61" />
+          <entry key="PLAIN_TEXT" value="130" />
+          <entry key="Python" value="2776" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-787853886">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+          <entry key="py" value="10" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="data_mining_project_2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>random</find>
+      <find>NN</find>
+      <find>Lasso_regression_r06525064</find>
+      <find>feature_names</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/data_mining_course/data_mining_project_2/inanalysis_algo/tests/test_knn.py" />
+        <option value="$USER_HOME$/data_mining_course/data_mining_project_2/inanalysis_algo/model_preview.py" />
+        <option value="$USER_HOME$/data_mining_course/data_mining_project_2/model_preview_predict.py" />
+        <option value="$USER_HOME$/data_mining_course/data_mining_project_2/knn_model_preview_predict.py" />
+        <option value="$USER_HOME$/data_mining_course/data_mining_project_2/requirements.in" />
+        <option value="$USER_HOME$/data_mining_course/data_mining_project_2/inanalysis_algo/algo_component.py" />
+        <option value="$USER_HOME$/data_mining_course/data_mining_project_2/inanalysis_algo/regression/linear_regression.py" />
+        <option value="$USER_HOME$/data_mining_course/data_mining_project_2/inanalysis_algo/abnormal_detection/one_class_svm.py" />
+        <option value="$USER_HOME$/data_mining_course/data_mining_project_2/inanalysis_algo/classification/dc_tree.py" />
+        <option value="$USER_HOME$/data_mining_course/data_mining_project_2/inanalysis_algo/classification/knn.py" />
+        <option value="$USER_HOME$/data_mining_course/data_mining_project_2/inanalysis_algo/clustering/kmeans.py" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/abnormal_detection/DL_NN.py" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/abnormal_detection/IsolationForest_b04505011.py" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/tests/test_DL_NN_regressor.py" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/regression/DL_NN_regressor.py" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/tests/test_adaboost_r05525092.py" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/tests/test_DL_RNN_Classifier_r07525035.py" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/nn_cls_model_preview_predict.py" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/abnormal_detection/DL_RNN_Classifier_r07525035.py" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/abnormal_detection/DL_NN_Classifier_r07525035.py" />
+        <option value="$PROJECT_DIR$/nn_cls_model_preview_predict.py" />
+        <option value="$PROJECT_DIR$/knn_model_preview_predict.py" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/abnormal_detection/DL_NN_test.py" />
+        <option value="$PROJECT_DIR$/knn_r05525122_arguments_definition.txt" />
+        <option value="$PROJECT_DIR$/dm_model_test.py" />
+        <option value="$PROJECT_DIR$/../../data_mining_final_project/inanalysis_algo/utils.py" />
+        <option value="$PROJECT_DIR$/../../data_mining_final_project/nn_classifier_r07525035_model_preview_predict.py" />
+        <option value="$PROJECT_DIR$/../../data_mining_final_project/nn_classifier_r07525035_arguments_definition.txt" />
+        <option value="$PROJECT_DIR$/../../data_mining_final_project/README.md" />
+        <option value="$PROJECT_DIR$/../../data_mining_final_project/inanalysis_algo/classification/DL_NN_Classifier_r07525035.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/../../data_mining_final_project/requirements.txt" />
+        <option value="$PROJECT_DIR$/nn_classifier_r07525035_model_preview_predict.py" />
+        <option value="$PROJECT_DIR$/nn_classifier_r07525035_arguments_definition.txt" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/tests/test_DL_NN_Classifier_r07525035.py" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/classification/DL_NN_Classifier_r07525035.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/utils.py" />
+        <option value="$PROJECT_DIR$/inanalysis_algo/algo_enum.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="917" />
+    <option name="height" value="789" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="data_mining_final_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_mining_final_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data_mining_final_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_mining_final_project" type="462c0819:PsiDirectoryNode" />
+              <item name="inanalysis_algo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data_mining_final_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_mining_final_project" type="462c0819:PsiDirectoryNode" />
+              <item name="inanalysis_algo" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../data_mining_final_project/inanalysis_algo/tests" />
+      <recent name="$PROJECT_DIR$/../../data_mining_final_project/inanalysis_algo/classification" />
+      <recent name="$PROJECT_DIR$/../../data_mining_final_project" />
+      <recent name="$PROJECT_DIR$/../../data_mining_final_project/inanalysis_algo" />
+      <recent name="$USER_HOME$/data_mining_course/data_mining_project_2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/inanalysis_algo/classification" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$USER_HOME$/data_mining_course/data_mining_project_2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Nosetests in test_DL_NN_Classifier_r07525035.py">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="data_mining_project_2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="DL_NN_Classifier_r07525035" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_mining_project_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inanalysis_algo/classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inanalysis_algo/classification/DL_NN_Classifier_r07525035.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nn_classifier_r07525035_model_preview_predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_mining_project_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../data_mining_final_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../data_mining_final_project/nn_classifier_r07525035_model_preview_predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nn_cls_model_preview_predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_mining_project_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nn_classifier_r07525035_model_preview_predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for test_DL_NN_Classifier_r07525035.InAlgoTestCase" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="data_mining_project_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../data_mining_final_project/inanalysis_algo/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_DL_NN_Classifier_r07525035.InAlgoTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests in test_DL_NN_Classifier_r07525035.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="data_mining_project_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inanalysis_algo/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/inanalysis_algo/tests/test_DL_NN_Classifier_r07525035.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.nn_cls_model_preview_predict" />
+      <item itemvalue="Python.nn_classifier_r07525035_model_preview_predict" />
+      <item itemvalue="Python.DL_NN_Classifier_r07525035" />
+      <item itemvalue="Python tests.Nosetests for test_DL_NN_Classifier_r07525035.InAlgoTestCase" />
+      <item itemvalue="Python tests.Nosetests in test_DL_NN_Classifier_r07525035.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Nosetests in test_DL_NN_Classifier_r07525035.py" />
+        <item itemvalue="Python.nn_cls_model_preview_predict" />
+        <item itemvalue="Python tests.Nosetests for test_DL_NN_Classifier_r07525035.InAlgoTestCase" />
+        <item itemvalue="Python.nn_classifier_r07525035_model_preview_predict" />
+        <item itemvalue="Python.DL_NN_Classifier_r07525035" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8543ce4a-a08b-401f-b257-ef47367a47ac" name="Default" comment="" />
+      <created>1511836937971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511836937971</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_in_test_DL_NN_Classifier_r07525035_py - 2018.12.12 at 17h 52m 16s.xml">
+      <configuration name="Nosetests in test_DL_NN_Classifier_r07525035.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_DL_NN_Classifier_r07525035_py - 2018.12.12 at 17h 59m 02s.xml">
+      <configuration name="Nosetests in test_DL_NN_Classifier_r07525035.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_DL_NN_Classifier_r07525035_py - 2018.12.13 at 11h 19m 24s.xml">
+      <configuration name="Nosetests in test_DL_NN_Classifier_r07525035.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_DL_NN_Classifier_r07525035_InAlgoTestCase - 2018.12.14 at 17h 59m 28s.xml">
+      <configuration name="Nosetests for test_DL_NN_Classifier_r07525035.InAlgoTestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_DL_NN_Classifier_r07525035_py - 2018.12.14 at 18h 11m 25s.xml">
+      <configuration name="Nosetests in test_DL_NN_Classifier_r07525035.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_DL_NN_Classifier_r07525035_py - 2018.12.17 at 11h 35m 45s.xml">
+      <configuration name="Nosetests in test_DL_NN_Classifier_r07525035.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_DL_NN_Classifier_r07525035_py - 2018.12.17 at 11h 39m 48s.xml">
+      <configuration name="Nosetests in test_DL_NN_Classifier_r07525035.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_DL_NN_Classifier_r07525035_py - 2018.12.17 at 11h 41m 50s.xml">
+      <configuration name="Nosetests in test_DL_NN_Classifier_r07525035.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_DL_NN_Classifier_r07525035_py - 2018.12.17 at 11h 43m 05s.xml">
+      <configuration name="Nosetests in test_DL_NN_Classifier_r07525035.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_DL_NN_Classifier_r07525035_py - 2018.12.17 at 13h 45m 25s.xml">
+      <configuration name="Nosetests in test_DL_NN_Classifier_r07525035.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1175" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15578717" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32881355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33104125" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.327112" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1585299" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32906404" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35763547" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32906404" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/abnormal_detection/IsolationForest_b04505011.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/keras/layers/recurrent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="1007" column="8" selection-start-line="1007" selection-start-column="8" selection-end-line="1007" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/sklearn/datasets/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4170">
+          <caret line="651" column="4" selection-start-line="651" selection-start-column="4" selection-end-line="651" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/tests/test_isolation_forest_r06525054.py" />
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/abnormal_detection/isolation_forest_r06525054.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/unittest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/tests/test_DL_NN_regressor.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/keras/wrappers/scikit_learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/abnormal_detection/DL_RNN_Classifier_r07525035.py" />
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/regression/DL_NN_regressor.py" />
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/classification/adaboost_r05525092.py" />
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/tests/test_DL_RNN_Classifier_r07525035.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/matplotlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/tests/test_knn.py" />
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/tests/test_adaboost_r05525103.py" />
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/tests/test_adaboost_r05525092.py" />
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/classification/knn.py" />
+    <entry file="file://$PROJECT_DIR$/sepal length (cm) _ sepal width (cm).png" />
+    <entry file="file://$PROJECT_DIR$/len_width.png" />
+    <entry file="file://$PROJECT_DIR$/mnist_cm_without_nornalize.png" />
+    <entry file="file://$PROJECT_DIR$/mnist_cm_nornalize.png" />
+    <entry file="file://$PROJECT_DIR$/iris_cm_without_nornalize.png" />
+    <entry file="file://$PROJECT_DIR$/iris_cm_nornalize.png" />
+    <entry file="file://$PROJECT_DIR$/digits_cm_without_nornalize.png" />
+    <entry file="file://$PROJECT_DIR$/digits_cm_nornalize.png" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/sklearn/metrics/classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/abnormal_detection/DL_NN_test.py" />
+    <entry file="file://$PROJECT_DIR$/dm_model_test.py" />
+    <entry file="file://$PROJECT_DIR$/knn_model_preview_predict.py" />
+    <entry file="file://$PROJECT_DIR$/iris_classification_report.csv" />
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/classification/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../data_mining_final_project/nn_classifier_r07525035_model_preview_predict.py" />
+    <entry file="file://$PROJECT_DIR$/../../data_mining_final_project/nn_classifier_r07525035_arguments_definition.txt" />
+    <entry file="file://$PROJECT_DIR$/../../data_mining_final_project/inanalysis_algo/utils.py" />
+    <entry file="file://$PROJECT_DIR$/../../data_mining_final_project/inanalysis_algo/algo_enum.py" />
+    <entry file="file://$PROJECT_DIR$/../../data_mining_final_project/inanalysis_algo/algo_component.py" />
+    <entry file="file://$PROJECT_DIR$/../../data_mining_final_project/inanalysis_algo/tests/test_DL_NN_Classifier_r07525035.py" />
+    <entry file="file://$PROJECT_DIR$/../../data_mining_final_project/inanalysis_algo/classification/DL_NN_Classifier_r07525035.py" />
+    <entry file="file://$PROJECT_DIR$/../../data_mining_final_project/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/../../data_mining_final_project/README.md" />
+    <entry file="file://$PROJECT_DIR$/nn_classifier_r07525035_arguments_definition.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nn_classifier_r07525035_model_preview_predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="167" column="9" selection-start-line="167" selection-start-column="9" selection-end-line="167" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/classification/DL_NN_Classifier_r07525035.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1992">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/algo_component.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/algo_enum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inanalysis_algo/tests/test_DL_NN_Classifier_r07525035.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="386" lean-forward="true" selection-start-line="386" selection-end-line="386" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,78 @@
+{
+  "method_name": "nn_classifier_r07525035",
+  "project_type": "classification"
+  "arguments_def": [
+       {
+          "name": "layer_1_neuron",
+          "type": "int",
+          "range": "1, 512",
+          "default_value": "32",
+          "description": ""
+      },
+      {
+          "name": "layer_1_activation",
+          "type": "enum",
+          "range": "softmax,relu,tanh,sigmoid,linear",
+          "default_value": "relu",
+          "description": ""
+      },
+       {
+          "name": "layer_2_neuron",
+          "type": "int",
+          "range": "1, 512",
+          "default_value": "16",
+          "description": ""
+      },
+      {
+          "name": "layer_2_activation",
+          "type": "enum",
+          "range": "softmax,relu,tanh,sigmoid,linear",
+          "default_value": "tanh",
+          "description": ""
+      },
+      {
+          "name": "layer_3_neuron",
+          "type": "int",
+          "range": "1, 512",
+          "default_value": "10
+          "description": "layer_3_neuron must be same as class number"
+      },
+      {
+          "name": "layer_3_activation",
+          "type": "enum",
+          "range": "softmax,relu,tanh,sigmoid,linear",
+          "default_value": "softmax",
+          "description": ""
+      },
+      {
+          "name": "optimizer",
+          "type": "enum",
+          "range": "SGD,RMSprop,Adagrad,Adadelta,Adam",
+          "default_value": "Adam",
+          "description": ""
+      },
+      {
+          "name": "loss",
+          "type": "enum",
+          "range": 'mean_squared_error,mean_absolute_error,mean_absolute_percentage_error,'
+                   'mean_squared_logarithmic_error,squared_hinge,hinge,categorical_hinge,'
+                   'categorical_crossentropy,logcosh',
+          "default_value": "mean_squared_error",
+          "description": ""
+      },
+      {
+          "name": "epochs",
+          "type": "int",
+          "range": "",
+          "default_value": "3",
+          "description": ""
+      },
+      {
+          "name": "batch_size",
+          "type": "int",
+          "range": "",
+          "default_value": "32",
+          "description": ""
+      }
+  ]
+}
