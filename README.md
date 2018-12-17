@@ -5,5 +5,7 @@ This project will be added to inanalysis system: https://inanalysis.github.io/
 
 
 ## Installation Requirements
-****- Requirements of programming environment
-    pip install -r requirements.txt
+- Requirements of programming environment
+```
+pip install -r requirements.txt
+```
